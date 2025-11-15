@@ -23,7 +23,7 @@
 <div class="store-buttons">
   <!-- TODO: Google PlayとApp StoreのURLが確定したら、# の部分を置き換えてください -->
   <a href="#" class="store-button"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/ja_badge_web_generic.png" alt="Google Playで手に入れよう"></a>
-  <a href="#" class="store-button"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store"></a>
+  <a href="https://apps.apple.com/jp/app/id6755056679" class="store-button"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store"></a>
 </div>
 
 <div class="section">
